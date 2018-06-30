@@ -7,8 +7,8 @@
     <ProjectGuid>{215031E9-8BB2-497D-8521-FAF592109912}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>EttFramework</RootNamespace>
-    <AssemblyName>EttFramework</AssemblyName>
+    <RootNamespace>ADONet</RootNamespace>
+    <AssemblyName>ADONet</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,6 +41,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Produto.cs" />
+    <Compile Include="ProdutoDAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

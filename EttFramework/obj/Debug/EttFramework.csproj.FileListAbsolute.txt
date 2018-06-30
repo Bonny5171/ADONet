@@ -1,1 +1,6 @@
-C:\git\EttFramework\EttFramework\bin\Debug\EttFramework.exe.config
+C:\git\EttFramework\EttFramework\obj\Debug\EttFramework.csprojResolveAssemblyReference.cache
+C:\git\EttFramework\EttFramework\bin\Debug\ADONet.exe.config
+C:\git\EttFramework\EttFramework\bin\Debug\ADONet.exe
+C:\git\EttFramework\EttFramework\bin\Debug\ADONet.pdb
+C:\git\EttFramework\EttFramework\obj\Debug\ADONet.exe
+C:\git\EttFramework\EttFramework\obj\Debug\ADONet.pdb
